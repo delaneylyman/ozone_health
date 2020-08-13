@@ -1,4 +1,3 @@
-# ozone_health
 Ozone that accumulates in the stratosphere creates a barrier from harmful UV light and
 protects the globe. However, due to an increase in primary pollutants, ozone is also beginning to
 acquire in the troposphere, becoming harmful to human health. According to the Environmental

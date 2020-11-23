@@ -10,7 +10,8 @@ human exposure: the 4th highest daily maximum 8-hour ozone MDA8 was over 70 ppb 
 and average daily maximum 8-hour average ozone mixing ratios AVGDMA8EPAX. This data is
 housed in the TOAR database: a comprehensive set of ozone data including standard statistics,
 health and vegetation impact metrics, and trend information.
-# The folder, “shine”, contains the necessary files to run this R Shiny app. The whole folder must be placed in your R path. The data must be in the folder for the app to run.
-# After you have the folder and data. Type the command
-# > runApp(‘shine’)
-# to run the app.
+
+The folder, “shine”, contains the necessary files to run this R Shiny app. The whole folder must be placed in your R path. The data must be in the folder for the app to run.
+After you have the folder and data. Type the command
+> runApp(‘shine’)
+to run the app.

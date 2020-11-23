@@ -12,6 +12,5 @@ housed in the TOAR database: a comprehensive set of ozone data including standar
 health and vegetation impact metrics, and trend information.
 
 The folder, “shine”, contains the necessary files to run this R Shiny app. The whole folder must be placed in your R path. The data must be in the folder for the app to run.
-After you have the folder and data. Type the command
+After you have the folder and data, type the following command to run the app:
 > runApp(‘shine’)
-to run the app.
